@@ -1,0 +1,2 @@
+Tyrannosaurus Rex,images/dinosaurs/tnails/tyro.gif
+Brontosaurus,images/dinosaurs/tnails/brontosaurus.gif
